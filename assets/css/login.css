@@ -1,0 +1,127 @@
+.text {
+  text-align: center;
+  color: #1a132f;
+  font-weight: 300;
+  margin-bottom: 25px;
+  font-size: 25px;
+}
+
+.write {
+  text-align: center;
+  color: #1a132f;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.box {
+  width: 100%;
+  background: white;
+  /*meletakkan form ke tengah*/
+  margin: 25px auto;
+  padding: 30px 20px;
+  box-shadow: 0px 0px 10px 4px #d6d6d6;
+}
+
+.table {
+  border-collapse: collapse;
+  font-size: 14px;
+  min-width: 537px;
+  margin-top: 25px;
+}
+
+label {
+  font-size: 11pt;
+  display: block;
+  color: #1a132f;
+}
+
+.login_form,
+.signup_form {
+  /*membuat lebar form penuh*/
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+}
+
+.form {
+  /*membuat lebar form penuh*/
+  box-sizing: border-box;
+  width: 200px;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+}
+
+.login_button {
+  background: #5b7db1;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+  border-color: black;
+  border-radius: 10px;
+  margin: 10px 10px 0px 0px;
+  padding: 10px;
+}
+
+.signup_button {
+  background: #a97155;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+  border-color: black;
+  border-radius: 10px;
+  margin: 10px 10px 0px 0px;
+  padding: 10px;
+}
+
+.back_button {
+  background: #f56d91;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  width: 30%;
+  border-color: black;
+  border-radius: 10px;
+  margin: 10px 15px 10px 15px;
+  padding: 15px 20px;
+}
+
+.check_button {
+  background: #8d8daa;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  width: 30%;
+  border-color: black;
+  border-radius: 10px;
+  margin: 10px 15px 10px 15px;
+  padding: 15px 20px;
+}
+
+textarea {
+  resize: none;
+  width: 300px;
+  height: 100px;
+}
+
+.alert {
+  background: #fc4f4f;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ffffff;
+}
+
+@media screen and (min-width: 768px) {
+  .box {
+    width: 570px;
+  }
+
+  .form {
+    width: 300px;
+  }
+}

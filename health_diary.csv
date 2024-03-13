@@ -1,0 +1,25 @@
+id_note;NIK;chk_date;chk_time;location;body_temp
+X001;1234567890000660;Tuesday, 29 March 2022;13:32:15;Amplas, Medan;34.5
+X002;1234567890000660;Tuesday, 05 April 2022;22:10:13;Johor, Medan;36.6
+X003;1234567890000470;Friday, 08 April 2022;08:27:26;Perdagangan, Simalungun;36
+X004;1234567890000660;Monday, 09 May 2022;16:01:14;Dolok Sanggul, Humbang Hasundutan;33.8
+X005;1234567890000660;Monday, 09 May 2022;16:01:46;Tembung, Medan;37.6
+X006;1234567890000660;Monday, 09 May 2022;16:02:25;Parapat, Simalungun;36.9
+X007;1234567890000660;Monday, 09 May 2022;16:03:53;Muara Dua, Lhokseumawe;35.9
+X008;1234567890000660;Monday, 09 May 2022;16:07:54;"Baiturrahman, Banda Aceh
+";37
+;;;;;
+NIK;UserName;gender;hometown;gmail;
+1234567890000010;Iriana Mavic;Female;Fakfak;IrianaAsik33@gmail.com;
+1234567890000010;Nikola Tesla;Male;Serpong;TeslaniBos@gmail.com;
+1234567890000110;Ghafi Abqary;Male;Banda Aceh;MaleGmail1@gmail.com;
+1234567890000110;Avicenna Diogenes;Male;Palembang;Cenna78@gmail.com;
+1234567890000220;Shakila Aiza;Female;Medan;Aiai11@gmail.com;
+1234567890000330;Al-Khawarizmi;Male;Bogor;Nicer9@gmail.com;
+1234567890000440;Marie Curie;Female;Bali;MariMarie@gmail.com;
+1234567890000470;Ryan Agustian;Male;Simalungun;ryanasik21@gmail.com;
+1234567890000550;Alan Turing;Male;Gorontalo;MathQ@gmail.com;
+1234567890000660;Fathi Annaqi;Male;Bandung;fathiannaqi3@gmail.com;
+1234567890000770;Vladimir Fizz;Male;Banten;BloodismyFood@gmail.com;
+1234567890000880;Maulana Maghribi;Male;Yogyakarta;Adzan@gmail.com;
+1234567890000990;Annisa Sakinah;Female;Jakarta;ankinah23@gmail.com;

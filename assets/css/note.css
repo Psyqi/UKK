@@ -1,0 +1,117 @@
+.title {
+  font-size: 35px;
+  text-align: center;
+  font-weight: 300;
+  color: #027e59;
+  margin: auto;
+  padding: auto;
+}
+
+.note-title {
+  font-family: "TrojanPro";
+  font-size: 20px;
+  text-align: center;
+  font-weight: 300;
+  color: #353535;
+  margin: auto;
+  padding: auto;
+}
+
+table {
+  margin: auto;
+  font-size: 12px;
+}
+
+.table {
+  border-collapse: collapse;
+  font-size: 13px;
+  margin: auto;
+}
+
+.table2 {
+  border-collapse: collapse;
+  font-size: 13px;
+  margin: auto;
+}
+
+.table th,
+.table td {
+  border: 1px solid #a09e9e;
+  padding: 9px 21px;
+  text-align: center;
+}
+
+.table2 th,
+.table2 td {
+  border: 1px solid #a09e9e;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+/* Table Header */
+.table thead th {
+  background-color: #2ecd71;
+  color: #ffffff;
+}
+
+/* Table Body */
+.table tbody td {
+  background-color: #f4fbff;
+  color: #353535;
+}
+
+.table2 tbody td {
+  background-color: #f5f5dc;
+  color: #353535;
+}
+
+.table2 tbody tr:hover th,
+.table2 tbody tr:hover td {
+  background-color: #ffffa2;
+  transition: all 0.2s;
+}
+
+/*Tabel Responsive 1*/
+.table-container {
+  overflow: auto;
+}
+
+@media screen and (min-width: 768px) {
+  .title {
+    font-size: 50px;
+  }
+
+  .note-title {
+    font-size: 20px;
+  }
+
+  .table th,
+  .table td {
+    padding: 12px 52px;
+  }
+
+  .table2 th,
+  .table2 td {
+    padding: 10px 45px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .title {
+    font-size: 60px;
+  }
+
+  .note-title {
+    font-size: 30px;
+  }
+
+  .table th,
+  .table td {
+    padding: 15px 55px;
+  }
+
+  .table2 th,
+  .table2 td {
+    padding: 15px 55px;
+  }
+}
